@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm an AI/CS doctoral student @ Oregon State University. My research focuses on real-world, practical applications of machine learning. M
 I'm a C.S. student @ Oregon State with a focus on machine learning engineering. I'm currently working on social media sentiment analysis & emotion understanding with deep NLP. I've always had a love for software engineering, and enjoy writing clean, maintainable, and efficent solutions for data science problems.
 
 If you want to learn more about my projects, you can check out my website at [aidanbeery.com](https://aidanbeery.com/) 
