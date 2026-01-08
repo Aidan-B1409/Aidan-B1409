@@ -1,8 +1,7 @@
 ### Hi there 👋
-I'm an AI/CS doctoral student @ Oregon State University. My research focuses on real-world, practical applications of machine learning. M
-I'm a C.S. student @ Oregon State with a focus on machine learning engineering. I'm currently working on social media sentiment analysis & emotion understanding with deep NLP. I've always had a love for software engineering, and enjoy writing clean, maintainable, and efficent solutions for data science problems.
+I'm an AI/CS doctoral student @ Oregon State University. My research focuses on real-world, practical applications of machine learning. Currently, I work on the development of [image segmentation models for food and food waste recognition](https://github.com/Soundbendor/FoodWasteDetect). I led the design and development of the [Smart Compost Bin](https://github.com/Soundbendor/food-detection-embedded) for automatic household food waste measurement. In the past, I developed a [BERT-based sentiment analysis NLP model for music emotion recognition from social media discourse](https://github.com/Soundbendor/music_discourse_prediction). 
 
-If you want to learn more about my projects, you can check out my website at [aidanbeery.com](https://aidanbeery.com/) 
+If you want to learn more about my projects and publications, you can check out my website at [aidanbeery.com](https://aidanbeery.com/) 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Aidan-B1409&count_private=true&theme=tokyonight&showicons=true)]()
 
