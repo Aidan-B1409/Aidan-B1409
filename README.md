@@ -2,7 +2,9 @@
 I'm a C.S. student @ Oregon State with a focus on machine learning engineering. I'm currently working on social media sentiment analysis & emotion understanding with deep NLP. I've always had a love for software engineering, and enjoy writing clean, maintainable, and efficent solutions for data science problems.
 
 If you want to learn more about my projects, you can check out my website at https://aidan-b1409.github.io/. 
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Aidan-B1409&count_private=true&theme=tokyonight&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-B1409&langs_count=5&theme=tokyonight)]()
 
 <!--
